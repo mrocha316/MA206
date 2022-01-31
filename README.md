@@ -11,3 +11,15 @@ This is a repository of multiple datasets used for MA206. Data pulled and adjust
   Illnesses: How many people were reported sick
   Hospitalizations: How many people were hospitalized
   Deaths: How many people died
+
+
+**resignations.csv** - Senators who have resigned from 1900 - 2018. Variables are:
+  Member: Name of the Senator
+  Party: Political Party
+  State: State the senator is from
+  Congress: Which Congressional session
+  Resignation Date: Date of Resignation
+  Reason: Official reason of resignation
+  
+  
+  
