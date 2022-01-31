@@ -22,6 +22,7 @@ This is a repository of multiple datasets used for MA206. Data pulled and adjust
   Reason: Official reason of resignation
     
   
-**Toast.csv** - Pesudo-recreation of Mythbusters Toast dataset (Tintle textbook problem 1.CE.4), variable is if bread landed butter side up or down.
+**Toast.csv** - Pseudo-recreation of Mythbusters Toast dataset (Tintle textbook problem 1.CE.4), variable is if bread landed butter side up or down.
 
 
+**Kissing.csv** - Pseudo-recreation of Kissing Right dataset (Tintle textbook Exploration Exercise 3.1), variable is if the couple turned their heads right or left.
