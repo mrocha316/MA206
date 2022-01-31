@@ -20,6 +20,8 @@ This is a repository of multiple datasets used for MA206. Data pulled and adjust
   Congress: Which Congressional session
   Resignation Date: Date of Resignation
   Reason: Official reason of resignation
+    
   
-  
-  
+**Toast.csv** - Pesudo-recreation of Mythbusters Toast dataset (Tintle textbook problem 1.CE.4), variable is if bread landed butter side up or down.
+
+
