@@ -30,3 +30,6 @@ This is a repository of multiple datasets used for MA206. Data pulled and adjust
 
 **HudsonFish** - New York State Department of Environmental Conservation collected and measured PCB levels in four species of Hudson River fish collected between 2001 - 2011.
 FDA limits PCBs in fish to 2 ppm or less for "safe human consumption". Is there a difference in Season or by Fish Type? ##Source - https://www.caryinstitute.org/eco-inquiry/hudson-data-jam-competition/datasets/pcbs-hudson-river-fish
+
+
+**HeightWeight** - 184 Body Measurements from Female students at Brigham Young University, available from Roger W. Johnson's 2021 article avialable https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1971585. Using the formulat for body fat calculations found in AR 600-9 (Table B-5), a column was added for the estimated body fat percentage, which can be compared to the actual water-weight technique body fat measurement. 
