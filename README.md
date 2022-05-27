@@ -29,7 +29,7 @@ FDA limits PCBs in fish to 2 ppm or less for "safe human consumption". Is there 
 
 
 **Olympics.csv** - Medal Results for Olympics Games. Clarification for some variables are:
-  Sex: M/F
+  Sex: M/F //
   Age: Age, in years
   Height: In cm
   Weight: In kg
