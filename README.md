@@ -3,6 +3,7 @@ csv files for MA206
 
 This is a repository of multiple datasets used for MA206. Data pulled and adjusted from the locations listed below.
 
+**Boston_Marathon.csv** - Data from 2015 and 2016 Boston Marathon finishers. Variables include Name, Age, M/F, Country, Official Time, Hour, Minute, Second, Overall, Gender, Division, Year.
 
 **DopeyResults.csv** - Dopey Challenge results from January 2022. Original dataset compiled from Disney Marathon facebook page. Dopey Challenge includes 4 races in 4 days, a 5K, then 10K, then half marathon, then marathon. The first 4 variables are the finish time for each individual races. Last 4 variables are the converted overall miles per hour (average) for each individual race.
 
