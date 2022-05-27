@@ -28,6 +28,16 @@ FDA limits PCBs in fish to 2 ppm or less for "safe human consumption". Is there 
 **Kissing.csv** - Pseudo-recreation of Kissing Right dataset (Tintle textbook Exploration Exercise 3.1), variable is if the couple turned their heads right or left.
 
 
+**Olympics.csv** - Medal Results for Olympics Games. Clarification for some variables are:
+  Sex: M/F
+  Age: Age, in years
+  Height: In cm
+  Weight: In kg
+  Year: Year
+  Season: Summer or Winter
+  US: Is the entry from the United States or not
+  Gold: Is the entry a Gold Medal or not
+
 **resignations.csv** - Senators who have resigned from 1900 - 2018. Variables are:
   Member: Name of the Senator
   Party: Political Party
