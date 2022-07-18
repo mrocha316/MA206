@@ -38,6 +38,8 @@ FDA limits PCBs in fish to 2 ppm or less for "safe human consumption". Is there 
   **US**: Is the entry from the United States or not
   **Gold**: Is the entry a Gold Medal or not
 
+**Pumpkin.csv** - Sample of pumpkins entered into the international GPC Pumpkin Weigh-Off of 2021. Original (complete) data found at http://www.bigpumpkins.com/WeighoffResultsGPC.aspx?c=P&y=2021. Variables include **Grower Name**, **Country**, **OTT** - the over-the-top measurement in inches for the size of the pumpkin, and **Weight (lbs)**, the weight of the pumpkin in pounds.
+
 **resignations.csv** - Senators who have resigned from 1900 - 2018. Variables are:
   **Member**: Name of the Senator
   **Party**: Political Party
