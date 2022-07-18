@@ -48,3 +48,5 @@ FDA limits PCBs in fish to 2 ppm or less for "safe human consumption". Is there 
       
       
 **Toast.csv** - Pseudo-recreation of Mythbusters Toast dataset (Tintle textbook problem 1.CE.4), variable is if bread landed butter side up or down.
+
+**UFO.csv** - Sample of 5,000 reported UFO sightings collected from the National UFO Reporting Center (NUFORC). Variables include date, location, and description of UFO sighting. Variables of interest are **IsUS** and **IsDisc**, depicting if the UFO was sighting within the US (Y/N) and if the UFO shape could be classified as a Disc (Y/N). Original (complete) dataset available at https://www.kaggle.com/datasets/NUFORC/ufo-sightings.
