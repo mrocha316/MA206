@@ -5,7 +5,7 @@ This is a repository of multiple datasets used for MA206. Data pulled and adjust
 
 **Boston_Marathon.csv** - Data from 2015 and 2016 Boston Marathon finishers. Variables include Name, Age, M/F, Country, Official Time, Hour, Minute, Second, Overall, Gender, Division, Year.
 
-**Cars2.csv** - Dataset of 32 cars and their respective test measurements, as reported by Motor Trend magazine. Available in car (mtcars). Variables include Miles per Gallon (**mpg**), number of cylinders (**cyl**), Displacement in cubic inches (**disp**), gross horsepower (**hp**), rear axle ratio (**drat**), weight in 1000 lbs (**wt**), 1/4 mile time (**qsec**), v-shape or straight line engine (**vs**), transmission type (**am**), number of forward gears (**gear**), number of carburetors (**carb**).
+**Cars.csv** - Dataset of 32 cars and their respective test measurements, as reported by Motor Trend magazine. Available in car (mtcars). Variables include Miles per Gallon (**mpg**), number of cylinders (**cyl**), Displacement in cubic inches (**disp**), gross horsepower (**hp**), rear axle ratio (**drat**), weight in 1000 lbs (**wt**), 1/4 mile time (**qsec**), v-shape or straight line engine (**vs**), transmission type (**am**), number of forward gears (**gear**), number of carburetors (**carb**).
 
 **ChickWeights2.csv** - 238 observations from two groups of chicks, one group with a normal diet and one with a 40% protein replacement diet for 10 days. Variables include type of diet and weight (in grams).
 
