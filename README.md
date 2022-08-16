@@ -12,6 +12,8 @@ This is a repository of multiple datasets used for MA206. Data pulled and adjust
 **DopeyResults.csv** - Dopey Challenge results from January 2022. Original dataset compiled from Disney Marathon facebook page. Dopey Challenge includes 4 races in 4 days, a 5K, then 10K, then half marathon, then marathon. The first 4 variables are the finish time for each individual races. Last 4 variables are the converted overall miles per hour (average) for each individual race.
 
 
+**Firefighters.csv** - Data collected from recent fires, four variables: **Damage**: The damage (in dollars) caused by the fire; **Firefighters**: number of firefighters that responded to the fire; **SqFt**: Total square footage of the buildings burned by the fire; **MethLab**: Whether a meth lab was involved in the fire (Y/N)
+
 **Food.csv** - Food poisoning outbreak dataset available from CDC, lists instances from 1998 - 2015. Original dataset available https://data.world/cdc/foodborne-outbreak-database/workspace/project-summary?agentid=cdc&datasetid=foodborne-outbreak-database. Some cleaning and adjustment done here, variables are:
   **Year**: The year of the incident 
   **State**: The state where the incident originated
