@@ -3,6 +3,9 @@ csv files for MA206
 
 This is a repository of multiple datasets used for MA206. Data pulled and adjusted from the locations listed below.
 
+**Blood_Pressure.csv** - Data from respondents with three variables: **HT**: height in centimeters; **SBP**, systolic blood pressure; **SEX**, male or female (as assigned at birth).
+
+
 **Boston_Marathon.csv** - Data from 2015 and 2016 Boston Marathon finishers. Variables include Name, Age, M/F, Country, Official Time, Hour, Minute, Second, Overall, Gender, Division, Year.
 
 **Cars.csv** - Dataset of 32 cars and their respective test measurements, as reported by Motor Trend magazine. Available in car (mtcars). Variables include Miles per Gallon (**mpg**), number of cylinders (**cyl**), Displacement in cubic inches (**disp**), gross horsepower (**hp**), rear axle ratio (**drat**), weight in 1000 lbs (**wt**), 1/4 mile time (**qsec**), v-shape or straight line engine (**vs**), transmission type (**am**), number of forward gears (**gear**), number of carburetors (**carb**).
