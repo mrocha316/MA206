@@ -3,6 +3,9 @@ csv files for MA206
 
 This is a repository of multiple datasets used for MA206. Data pulled and adjusted from the locations listed below.
 
+**Bears.csv** - Pseudo-Data from bear encounters. Variables include: **Date**, **Zone**, **Species**, **Status**, **Time of Day**, **Captured**, **Weight** (in pounds), and **Reporting Agency**.
+
+
 **Blood_Pressure.csv** - Data from respondents with three variables: **HT**: height in centimeters; **SBP**, systolic blood pressure; **SEX**, male or female (as assigned at birth).
 
 
