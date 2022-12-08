@@ -63,6 +63,7 @@ FDA limits PCBs in fish to 2 ppm or less for "safe human consumption". Is there 
 
 **Slurm.csv** - Taste test conducted on planet Decapod 10 with 50 Decapodians responding. Variable **Drink** is which of 3 drinks were selected as the best by each respondent.
 
+**squirrel2018.csv** - A dataset from the 2018 NYC squirrel census. The dataset has 3,023 observed squirrel sightings and documents variables such as age, fur color, if the squirrel was running, approached the observer. Total of 36 variables, categorical.
 
 **Toast.csv** - Pseudo-recreation of Mythbusters Toast dataset (Tintle textbook problem 1.CE.4), variable is if bread landed butter side up or down.
 
