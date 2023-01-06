@@ -3,6 +3,8 @@ csv files for MA206
 
 This is a repository of multiple datasets used for MA206. Data pulled and adjusted from the locations listed below.
 
+**Austin_Animals.csv** - Open data from the City of Austin, Texas on animal outcomes from animal shelters. Data from https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm. Cleaned to only look between 2014 and 2022. Variables include: **Animal ID** - a unique identifier. **Name** - Name of the animal, if known. **Month** - Month the animal left the shelter. **Year** - Year the animal left the shelter. **Outcome Type** - The reason the animal left the shelter. Possible values are Adoption, Euthenasia, or Transfer. **Animal Type** - Possible outcomes are Cat, Dog, or Other. **Age** - Age at release, in Years (Days and Months will be in decimals). **Color** - color of the animal.
+
 **Bears.csv** - Pseudo-Data from bear encounters. Variables include: **Date**, **Zone**, **Species**, **Status**, **Time of Day**, **Captured**, **Weight** (in pounds), and **Reporting Agency**.
 
 
