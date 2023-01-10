@@ -22,7 +22,7 @@ This is a repository of multiple datasets used for MA206. Data pulled and adjust
 
 **Firefighters.csv** - Data collected from recent fires, four variables: **Damage**: The damage (in dollars) caused by the fire; **Firefighters**: number of firefighters that responded to the fire; **SqFt**: Total square footage of the buildings burned by the fire; **MethLab**: Whether a meth lab was involved in the fire (Y/N)
 
-**FLPython.csv** - Participants from Florida's Python Challenge between the years of 2020 and 2022. Variables include **Year** from 2020 to 2022, **Caught** which indicates the total number of pythons caught, **Longest** which indicates the length of the longest python the participant caught, in feet, and **Status**, the status of the participant with three variables, Professional, Novice, or Military.
+**FLPython.csv** - Participants from Florida's Python Challenge between the years of 2020 and 2022. Variables include **Year** from 2020 to 2022, **Caught** which indicates the total number of pythons caught, **Longest** which indicates the length of the longest python the participant caught, in feet, and **Status**, the status of the participant with three variables, Professional, Novice, or Military.  Simulated data beyond line 23 to expand beyond winners/ https://flpythonchallenge.org/participate/competition/winners/
 
 **Food.csv** - Food poisoning outbreak dataset available from CDC, lists instances from 1998 - 2015. Original dataset available https://data.world/cdc/foodborne-outbreak-database/workspace/project-summary?agentid=cdc&datasetid=foodborne-outbreak-database. Some cleaning and adjustment done here, variables are:
   **Year**: The year of the incident 
