@@ -1,0 +1,438 @@
+Animal ID,Name,Month,Year,Outcome Type,Animal Type,Age,Color
+A804542,*Chester,Nov,2019,Adoption,Dog,2,Tan
+A857609,*Birch,Jun,2022,Adoption,Cat,0.16666666666666666,Black
+A545642,Cow,Mar,2021,Adoption,Dog,12,Black/Brown
+A822101,NA,Sep,2020,Adoption,Cat,0.3333333333333333,Brown Tabby/White
+A787961,Bane,Feb,2019,Adoption,Cat,0.25,Blue Tabby/White
+A706750,*Bubba,Aug,2015,Adoption,Dog,3,White/Brown
+A710760,Stella,Aug,2015,Adoption,Dog,4,Black
+A837576,*Ossie,Jul,2021,Adoption,Cat,0.16666666666666666,Black
+A713634,Lady,Oct,2015,Transfer,Dog,4,Black/Brown Brindle
+A722246,Oscar,Jul,2019,Adoption,Dog,4,Tan/White
+A806164,Maya,Oct,2019,Adoption,Cat,0.25,Brown Tabby/White
+A798544,*Lilac,Jul,2019,Adoption,Cat,0.16666666666666666,Brown Tabby
+A728774,NA,Jul,2016,Adoption,Dog,1,White/Black
+A686608,Fido,Sep,2014,Adoption,Dog,1,Tricolor
+A706265,*Sampson,Jul,2015,Transfer,Dog,0.8333333333333334,Brown Brindle
+A679213,Tucker,Sep,2015,Adoption,Dog,3,Tan
+A674590,*Hailey,Oct,2014,Adoption,Dog,2,Black/White
+A726043,Anise,May,2016,Transfer,Cat,2,Tortie
+A728760,*Fiona,Jun,2016,Adoption,Dog,1,Brown/Black
+A744542,NA,Mar,2017,Euthanasia,Other,2,Brown
+A754989,Molly,Oct,2019,Adoption,Dog,2,Tan
+A731266,NA,Jul,2016,Transfer,Cat,0.00547945205479452,Gray/White
+A683641,NA,Jul,2014,Adoption,Cat,0.4166666666666667,Brown Tabby/White
+A722154,*Herman,Mar,2016,Transfer,Dog,0.4166666666666667,Black/White
+A672118,NA,Feb,2014,Adoption,Dog,0.6666666666666666,Black
+A845618,A845618,Nov,2021,Transfer,Dog,2,Brown/Black
+A792224,*Patches,Apr,2019,Adoption,Dog,0.6666666666666666,White/Brown Brindle
+A735394,*Rheya,Jan,2017,Adoption,Cat,1,Brown Tabby
+A826533,NA,Dec,2020,Transfer,Dog,0.4166666666666667,Brown/White
+A839916,NA,Jul,2021,Transfer,Dog,0.3333333333333333,White/Black
+A747565,Zeus,Apr,2017,Transfer,Dog,0.25,White/Black
+A690537,*Eloise,Nov,2014,Adoption,Cat,0.16666666666666666,Tortie
+A843465,*Acorn,Oct,2021,Adoption,Cat,1,Orange Tabby
+A805467,Hallie,Oct,2019,Adoption,Dog,0.16666666666666666,Red/White
+A856043,A856043,May,2022,Adoption,Dog,0.16666666666666666,Red
+A774282,*Jamjam,Feb,2019,Adoption,Dog,8,White/Brown
+A861617,NA,Jul,2022,Euthanasia,Cat,1,White
+A758680,NA,Sep,2017,Transfer,Dog,1,White/Brown
+A801183,NA,Aug,2019,Adoption,Cat,0.5,Orange Tabby
+A827510,*Spot,Jan,2021,Adoption,Dog,2,White/Brown
+A684869,NA,Jul,2014,Transfer,Cat,3,Brown Tabby
+A804904,Leo,Dec,2019,Adoption,Dog,1,White/Brown
+A768435,*Maizy,Mar,2018,Adoption,Dog,1,Cream/White
+A819686,Nix,Jul,2020,Adoption,Dog,1,Blue Merle/White
+A673989,NA,Mar,2014,Transfer,Cat,0.4166666666666667,Black
+A702172,Freddy,May,2015,Adoption,Dog,0.6666666666666666,Black/Tan
+A723418,NA,Apr,2016,Transfer,Cat,1,Brown Tabby
+A708996,*Boots,Oct,2015,Adoption,Cat,3,Brown Tabby
+A783482,*Rocky,Dec,2018,Adoption,Dog,3,Chocolate/White
+A691075,Sasha,Nov,2014,Adoption,Dog,2,Gray
+A744382,NA,Feb,2017,Euthanasia,Other,1,Brown
+A700700,NA,Apr,2015,Adoption,Dog,0.16666666666666666,Black/White
+A787865,Remy,Jan,2019,Adoption,Dog,5,Tan
+A777546,Nala,Aug,2018,Adoption,Cat,1,Orange Tabby/White
+A748249,*Thyme,May,2017,Adoption,Dog,0.16666666666666666,Tricolor
+A795337,*Cello,Jul,2019,Adoption,Dog,2,Tan
+A688451,NA,Sep,2014,Adoption,Dog,0.16666666666666666,Yellow/White
+A706218,Bailey,Jun,2015,Transfer,Other,2,Chocolate/White
+A738144,*Sprite,Jan,2017,Adoption,Dog,2,White/Tan
+A698658,NA,Mar,2015,Euthanasia,Other,2,Brown/Black
+A802611,*Jan,Oct,2019,Transfer,Cat,0.16666666666666666,Black/White
+A709379,NA,Aug,2015,Euthanasia,Dog,4,Cream
+A766322,Charlie,Feb,2018,Adoption,Cat,1,White/Black
+A729153,Rex,Sep,2016,Adoption,Dog,3,Brown Brindle
+A680049,NA,Jun,2014,Euthanasia,Cat,0.16666666666666666,Black
+A670732,NA,Jan,2014,Euthanasia,Other,1,Brown/Black
+A818114,*Rosemary,Aug,2020,Adoption,Cat,0.25,Blue Tabby
+A776645,*Dandelion,Jul,2018,Adoption,Dog,1,Fawn/White
+A721461,*Windsor,Mar,2016,Adoption,Cat,3,Black/White
+A703711,Domingo,May,2015,Adoption,Dog,0.4166666666666667,Black
+A674754,NA,Mar,2014,Transfer,Cat,0.01643835616438356,Orange Tabby
+A700797,*Bluebonnet,Apr,2015,Transfer,Cat,0.6666666666666666,Brown Tabby
+A676805,*Josephine,Jun,2014,Adoption,Cat,0.16666666666666666,Torbie
+A810898,NA,Dec,2019,Adoption,Dog,0.16666666666666666,Brown/White
+A766142,NA,Feb,2018,Euthanasia,Other,2,Black
+A765993,*Toby,Feb,2018,Adoption,Dog,1,Yellow
+A715493,NA,Nov,2015,Transfer,Cat,0.6666666666666666,Orange Tabby
+A805031,*Baby Shark,Oct,2019,Adoption,Cat,0.16666666666666666,Gray Tabby
+A802586,NA,Aug,2019,Transfer,Cat,1,Orange Tabby
+A700255,*Brody,Jul,2015,Adoption,Dog,4,Chocolate/White
+A732619,Cassy,Oct,2016,Adoption,Dog,1,White/Black
+A723634,Pearl,Jul,2016,Adoption,Cat,0.25,Torbie
+A784115,NA,Nov,2018,Transfer,Cat,2,Black
+A693847,NA,Dec,2014,Transfer,Dog,0.16666666666666666,Brown/White
+A729169,NA,Jun,2016,Transfer,Dog,2,Black/White
+A824182,*Delilah,Oct,2020,Adoption,Dog,6,Black
+A798956,Lola,Aug,2019,Adoption,Cat,0.25,Black
+A758746,NA,Sep,2017,Adoption,Dog,0.5,Fawn
+A843928,Aria,Oct,2021,Adoption,Dog,0.4166666666666667,Gray/White
+A792886,*Pig Newton,Apr,2019,Transfer,Other,1,Tricolor
+A718081,NA,Dec,2015,Adoption,Cat,0.16666666666666666,Brown Tabby
+A689163,*Dottie,Oct,2014,Adoption,Dog,0.8333333333333334,White/Black
+A777355,*Bernard,Sep,2018,Transfer,Dog,2,White
+A787905,Utada,Jan,2019,Transfer,Dog,1,Tricolor
+A854119,A854119,Apr,2022,Adoption,Cat,0.16666666666666666,Black
+A838007,Blitz,Jul,2021,Adoption,Dog,2,Black/White
+A852387,Pepper,Jul,2022,Adoption,Cat,1,Tortie
+A677133,Blue,May,2014,Adoption,Dog,2,Blue/White
+A758248,NA,Sep,2017,Transfer,Cat,2,Blue
+A660675,Gumdrop,Feb,2014,Transfer,Other,1,Black/White
+A757038,Kanelo,Sep,2017,Adoption,Dog,0.5,Tan/White
+A821767,*Athos,Dec,2020,Adoption,Cat,0.5833333333333334,Brown Tabby
+A736731,NA,Oct,2016,Euthanasia,Dog,3,White/Red
+A847499,*Sassy,Dec,2021,Adoption,Cat,0.16666666666666666,Black
+A724439,NA,Apr,2016,Transfer,Cat,3,Orange Tabby
+A779434,Bluebell,Nov,2018,Adoption,Dog,6,Blue Merle
+A464421,Cairo,May,2021,Adoption,Cat,14,Lynx Point
+A835946,*Toni,Jul,2021,Adoption,Dog,1,Black/White
+A677941,NA,May,2014,Transfer,Cat,2,Tortie
+A851236,NA,Feb,2022,Transfer,Dog,1,Chocolate/White
+A856037,Gina,May,2022,Adoption,Dog,2,Black/Brown
+A790807,Cimorene,Mar,2019,Transfer,Cat,1,Brown Tabby/White
+A755252,NA,Aug,2017,Adoption,Cat,0.25,Orange Tabby/White
+A801764,NA,Aug,2019,Transfer,Cat,1,White/Brown Tabby
+A800197,Anti,Jul,2019,Adoption,Cat,10,Brown Tabby
+A822539,NA,Sep,2020,Adoption,Dog,1,Tricolor
+A796188,NA,Jun,2019,Transfer,Cat,1,Black/White
+A812974,*Sugar,Dec,2020,Transfer,Dog,2,Tan/White
+A751236,Meg,Mar,2019,Adoption,Cat,1,Blue Tabby
+A697854,Monty,Jun,2015,Adoption,Dog,10,Black/Tan
+A700882,Sarah,May,2015,Transfer,Dog,2,Black
+A754375,NA,Jul,2017,Adoption,Dog,0.25,Tan/Black
+A774638,Frodo,Jun,2018,Transfer,Cat,1,Blue Tabby
+A781337,*Ella,Nov,2018,Adoption,Cat,0.5833333333333334,Black/White
+A848085,*Soybean,Nov,2022,Adoption,Dog,1,Brown/White
+A667268,NA,Jan,2020,Transfer,Cat,8,Torbie
+A771540,Big Sherm,Apr,2019,Adoption,Dog,8,White/Brown
+A786662,NA,Jan,2019,Adoption,Dog,0.5833333333333334,Chocolate/White
+A745063,*Flame,Jun,2017,Adoption,Dog,1,Tan/Black
+A870261,*Cuddles,Dec,2022,Adoption,Dog,2,White/White
+A847187,*Horseradish,Jan,2022,Adoption,Cat,2,Brown Tabby
+A845299,NA,Oct,2021,Transfer,Cat,2,Torbie
+A756304,Bacon,Jun,2021,Adoption,Dog,5,Black/White
+A709475,NA,Aug,2015,Transfer,Dog,1,Brown Brindle
+A744095,Walt,Mar,2017,Adoption,Dog,1,Black
+A858154,*Sheldon,Aug,2022,Adoption,Cat,0.25,Black
+A742546,NA,Jan,2017,Transfer,Cat,0.75,Black/White
+A783584,NA,Dec,2018,Adoption,Dog,2,White
+A835912,NA,Jun,2021,Transfer,Cat,2,Blue Tabby
+A824147,*Edgar,Nov,2020,Adoption,Cat,0.16666666666666666,Brown Tabby/White
+A684319,Kisses,Feb,2015,Euthanasia,Dog,2,Brown/White
+A659896,Opie,Nov,2014,Adoption,Dog,3,Brown Brindle/White
+A840437,Istas,Aug,2021,Adoption,Dog,0.75,Gold/White
+A871724,NA,Dec,2022,Euthanasia,Other,2,Gray/Black
+A700413,NA,Apr,2015,Transfer,Cat,2,Blue Tabby
+A739607,Willie,Mar,2018,Adoption,Dog,1,Tricolor
+A760431,NA,Oct,2017,Transfer,Cat,2,Orange Tabby
+A826936,Velvet,Jun,2021,Adoption,Cat,0.75,Black
+A788615,Pokie,May,2019,Transfer,Cat,13,Calico
+A864830,Meryl,Nov,2022,Adoption,Cat,4,Black
+A752941,NA,Jul,2017,Transfer,Cat,2,Black/Black
+A659830,*Harry,Jun,2014,Adoption,Dog,0.9166666666666666,Black
+A777069,Kaiya,Jun,2019,Adoption,Dog,1,Black
+A774293,*Cayden,Nov,2018,Adoption,Cat,0.5833333333333334,Orange Tabby/White
+A796126,*Gina,Jun,2019,Transfer,Cat,1,Orange/White
+A685596,*Jacob,Aug,2014,Adoption,Dog,0.4166666666666667,Brown/White
+A826136,*Dahlila,Dec,2020,Transfer,Cat,0.5,White/Brown Tabby
+A775842,Tucker,Dec,2018,Adoption,Dog,2,Red/Black
+A708253,NA,Jul,2015,Euthanasia,Other,1,Black
+A775414,NA,Jul,2018,Transfer,Cat,1,Brown Tabby
+A864692,Leia,Sep,2022,Adoption,Dog,1,Brown
+A735683,*Lizzie,Oct,2016,Transfer,Cat,2,Blue/White
+A681147,NA,Jun,2014,Transfer,Dog,0.16666666666666666,Tricolor
+A830677,*Mara,Apr,2022,Adoption,Dog,1,Black/White
+A757310,*Sofia,Sep,2017,Transfer,Cat,1,Brown Tabby
+A689392,NA,Oct,2014,Transfer,Cat,0.25,Orange
+A847804,*Mahalia,Feb,2022,Adoption,Cat,10,Brown Tabby/White
+A757911,NA,Sep,2017,Transfer,Cat,0.3333333333333333,Black/White
+A863803,*Orzo,Sep,2022,Adoption,Cat,1,Tortie
+A754829,*Patsy,Aug,2017,Transfer,Cat,0.16666666666666666,Black/White
+A694862,*Nutmeg,Jan,2015,Transfer,Dog,1,Black/Brown
+A743415,Noni,Dec,2017,Adoption,Dog,2,Black/Tan
+A683999,NA,Jul,2014,Transfer,Cat,1,Brown Tabby
+A732787,*Felix,Sep,2016,Transfer,Cat,1,Black/White
+A685622,Duke,Aug,2014,Transfer,Dog,0.4166666666666667,Tan/Black
+A823131,NA,Sep,2020,Euthanasia,Other,2,Brown/Brown
+A723760,Donatella,Apr,2016,Transfer,Cat,1,Brown Tabby
+A677957,Coco,Aug,2021,Transfer,Dog,11,Chocolate
+A807128,*Chili,Oct,2019,Adoption,Dog,0.16666666666666666,Red/White
+A843803,A843803,Oct,2021,Adoption,Cat,0.4166666666666667,Black
+A788441,*Colt,Feb,2019,Adoption,Dog,0.16666666666666666,Black/White
+A742828,Halloweenie,Jan,2017,Adoption,Cat,0.16666666666666666,White/Black
+A787894,NA,Jan,2019,Adoption,Dog,0.16666666666666666,Brown Brindle/White
+A605804,Shayla,Jul,2014,Adoption,Dog,3,White/Black
+A714760,Aria,Jan,2019,Transfer,Cat,5,Brown Tabby/White
+A679328,NA,May,2014,Transfer,Cat,1,Torbie/White
+A824972,NA,Oct,2020,Euthanasia,Other,2,Brown
+A736551,*Mia,Nov,2016,Adoption,Dog,1,Black
+A852090,Nala,Mar,2022,Adoption,Dog,0.25,Black/Brown
+A726566,*Sibby,May,2016,Adoption,Cat,1,Torbie
+A832376,Scout,May,2021,Adoption,Dog,1,Brown/White
+A729817,NA,Jul,2016,Adoption,Cat,0.16666666666666666,Brown Tabby/White
+A671935,*Peanut,Feb,2014,Transfer,Cat,1,Blue/White
+A698621,*Oso,May,2015,Adoption,Dog,9,Black/White
+A817499,NA,May,2020,Transfer,Cat,1,Black
+A798355,*Yogato,Jun,2019,Transfer,Cat,2,Blue Smoke/White
+A822419,NA,Oct,2020,Adoption,Dog,0.16666666666666666,Brown
+A852000,*Luismi,Mar,2022,Adoption,Dog,2,White/Tan
+A703902,*Rufus,Jun,2015,Transfer,Dog,3,Silver
+A813827,NA,Mar,2020,Transfer,Dog,5,Brown
+A855726,Mr. White Paws,Aug,2022,Adoption,Cat,0.4166666666666667,Brown Tabby
+A857175,Sparky,May,2022,Transfer,Cat,0.5,Black
+A714486,Chili,Nov,2018,Transfer,Dog,4,Tricolor
+A764134,NA,Dec,2017,Adoption,Cat,0.25,Brown Tabby
+A715483,*Alvin,Nov,2015,Transfer,Dog,0.5,Cream/White
+A698534,Eugene,Apr,2015,Adoption,Cat,1,Black
+A789474,*Benito,Feb,2019,Transfer,Dog,1,Tan/Black
+A819199,NA,Jun,2020,Adoption,Dog,2,Red/White
+A791552,*Sophie,Jun,2019,Adoption,Cat,7,Tortie
+A725705,NA,May,2016,Euthanasia,Other,1,Gray/Black
+A730568,Baggetta,Jun,2018,Adoption,Dog,3,Brown/White
+A810046,Ripley,Dec,2019,Transfer,Dog,2,Black/White
+A820918,*Edie,Aug,2020,Adoption,Cat,0.3333333333333333,Gray
+A730195,Sisco,Jul,2016,Adoption,Dog,1,Red
+A735077,Spaz,Sep,2016,Transfer,Cat,3,Brown Tabby
+A699524,NA,Mar,2015,Euthanasia,Other,4,Brown/Black
+A743091,Codei,Aug,2017,Adoption,Dog,0.6666666666666666,Blue
+A678671,NA,Jul,2014,Adoption,Cat,0.16666666666666666,Blue Tabby
+A723686,NA,Apr,2016,Transfer,Cat,3,Blue/White
+A858411,NA,May,2022,Transfer,Cat,4,Seal Point
+A689477,Buffy,Oct,2014,Transfer,Cat,0.75,Tortie
+A796642,*Sophie,Jun,2019,Adoption,Dog,2,Sable
+A862751,*Hodgins,Aug,2022,Adoption,Dog,2,Gray
+A696388,NA,Feb,2015,Transfer,Cat,1,Black/White
+A828382,*Silver,Jan,2021,Adoption,Dog,2,White
+A781651,NA,Oct,2018,Transfer,Cat,0.4166666666666667,Orange Tabby
+A804031,*Fluff,Nov,2019,Adoption,Cat,0.16666666666666666,Brown Tabby
+A727694,*Senor,Jun,2016,Adoption,Cat,3,Orange Tabby
+A712235,Bella,Nov,2016,Adoption,Dog,5,White/Tan
+A681802,Shakespeare,Jul,2014,Adoption,Cat,0.16666666666666666,Brown Tabby
+A820151,NA,Jul,2020,Transfer,Dog,1,Brown/White
+A808714,*Jackson,Dec,2019,Transfer,Cat,0.16666666666666666,Black/Black
+A840198,A840198,Aug,2021,Adoption,Dog,0.16666666666666666,Tan
+A689093,NA,Sep,2014,Transfer,Cat,3,Brown Tabby/White
+A800638,*Sweet Pea,Jul,2019,Transfer,Cat,4,Calico
+A771925,Max,May,2018,Adoption,Dog,10,Gray/White
+A809699,*Ginger,Dec,2019,Transfer,Cat,2,Orange Tabby
+A713107,Talulah,Oct,2015,Transfer,Dog,2,White
+A805744,*Skips,Oct,2019,Transfer,Dog,2,White/Black
+A789106,*Guinness,Feb,2019,Transfer,Dog,2,Gray
+A796454,*Ob,Jul,2019,Adoption,Cat,2,Orange Tabby/White
+A699040,Penny,Mar,2015,Adoption,Dog,1,Blue/White
+A736758,*Cody,Oct,2016,Adoption,Dog,0.25,Tricolor
+A708397,Gizmo,Nov,2015,Adoption,Cat,6,Brown Tabby
+A759975,Gracie,Oct,2017,Transfer,Dog,0.25,Black
+A834805,*Antonio,Jun,2021,Adoption,Dog,2,Tan/White
+A674526,*Chico,Mar,2014,Adoption,Dog,1,Red
+A705218,NA,Jun,2015,Transfer,Cat,1,Calico
+A852509,Ube,Mar,2022,Transfer,Other,1,Tricolor
+A711853,*Nala,Nov,2015,Adoption,Cat,0.16666666666666666,Brown Tabby
+A711134,Brownie,Mar,2021,Transfer,Dog,10,Tan
+A808080,NA,Nov,2019,Transfer,Cat,6,Orange Tabby
+A702671,*Basil,May,2015,Adoption,Dog,0.16666666666666666,Tricolor
+A703713,*Champ,Jun,2015,Transfer,Dog,2,White/Brown
+A866968,NA,Oct,2022,Transfer,Dog,3,Tricolor
+A836066,*Dana,Jun,2021,Adoption,Dog,0.75,Tan/Black
+A689701,*Charlie,Oct,2014,Transfer,Dog,2,Black/Tan
+A859250,Dot,Jun,2022,Transfer,Dog,4,Black/White
+A848252,Louise,Dec,2021,Adoption,Dog,0.16666666666666666,Black/White
+A833056,Piccolo,May,2021,Adoption,Dog,0.25,Brown/White
+A721932,Petey,Mar,2016,Adoption,Dog,7,Chocolate/White
+A779125,Kitchen,Sep,2018,Adoption,Cat,0.6666666666666666,Black
+A780566,NA,Sep,2018,Transfer,Cat,2,White/Orange
+A784542,NA,Nov,2018,Transfer,Dog,0.16666666666666666,Tan/White
+A838309,NA,Jul,2021,Transfer,Cat,2,Black
+A784417,NA,Nov,2018,Transfer,Cat,1,Brown Tabby
+A794884,*Stewey,Aug,2019,Adoption,Cat,1,Blue Tabby
+A749119,Bowie,May,2017,Adoption,Dog,2,Black/White
+A805624,NA,Oct,2019,Adoption,Dog,0.16666666666666666,Sable
+A725070,Pepper,May,2016,Adoption,Dog,1,Black/White
+A779197,NA,Aug,2018,Transfer,Cat,2,Blue/White
+A675949,NA,Apr,2014,Transfer,Dog,1,Tan/Apricot
+A711662,*Carl,Dec,2015,Adoption,Cat,0.3333333333333333,Brown Tabby
+A667813,*Joc,Jan,2014,Adoption,Cat,0.3333333333333333,Black
+A618883,Muffin,Feb,2020,Adoption,Cat,8,Torbie
+A700352,NA,Apr,2015,Transfer,Cat,0.0136986301369863,Black
+A830967,Mia,Mar,2021,Transfer,Dog,10,White/Tricolor
+A516577,Joker,Dec,2015,Adoption,Dog,9,Black/Tricolor
+A810593,*Pancake,Jan,2020,Adoption,Cat,0.9166666666666666,Orange Tabby/White
+A763750,*Louie,Jan,2018,Adoption,Other,1,Gray/Gray
+A682548,Slugger,Jul,2014,Adoption,Dog,2,Black/White
+A757721,NA,Sep,2017,Transfer,Cat,2,Tortie
+A849817,Tita,Jan,2022,Adoption,Cat,6,Lynx Point
+A806047,*Elwood,Dec,2019,Adoption,Cat,0.25,Blue
+A825183,NA,Nov,2020,Transfer,Cat,1,Black
+A775666,NA,Jul,2018,Transfer,Cat,0.16666666666666666,Gray Tabby
+A703053,NA,May,2015,Adoption,Dog,1,Tan/White
+A851560,*Jelly,Feb,2022,Adoption,Dog,2,Tricolor
+A741633,NA,Jan,2017,Transfer,Cat,1,Black
+A752463,Red,Jun,2017,Adoption,Dog,4,Red/White
+A813439,Phoebe,Feb,2020,Euthanasia,Dog,14,Brown/Tan
+A719031,Rufus,Jan,2016,Adoption,Dog,0.5,Gray/Tan
+A720471,Dixie,Feb,2016,Adoption,Dog,1,White/Black
+A823984,Chucho,Dec,2021,Adoption,Dog,4,Buff
+A672419,NA,Feb,2014,Euthanasia,Other,0.5,Brown
+A861571,*Sapphire,Sep,2022,Adoption,Cat,0.16666666666666666,Blue Tabby
+A723369,NA,Apr,2016,Transfer,Cat,2,Tortie
+A679868,*Tiger Lily,Dec,2014,Adoption,Dog,0.9166666666666666,White/Brown Brindle
+A765850,Oreo,Mar,2018,Adoption,Dog,0.16666666666666666,White/Black
+A786346,NA,Jan,2019,Transfer,Cat,0.3333333333333333,Black/White
+A831773,Daisy,Feb,2022,Adoption,Dog,2,Tan/White
+A608411,Cappuccino,Nov,2014,Adoption,Dog,4,Brown/White
+A845331,*Brando,Dec,2021,Adoption,Cat,0.8333333333333334,Brown Tabby
+A765309,Sugar Ray,Feb,2018,Adoption,Dog,3,Tan
+A735541,NA,Sep,2016,Adoption,Dog,1,Tan/Tan
+A794951,*Maxwell,Sep,2019,Transfer,Dog,2,Red
+A760110,NA,Oct,2017,Euthanasia,Cat,2,Brown Tabby
+A858827,*Peque,Jun,2022,Adoption,Cat,0.16666666666666666,Tortie
+A733810,*Buck,Oct,2016,Transfer,Dog,1,Brown Brindle/Black
+A743907,*Artemis,Feb,2017,Adoption,Dog,4,Black/Tan
+A705974,*Sadie,Jun,2015,Transfer,Dog,0.6666666666666666,Black Brindle/White
+A763885,NA,Dec,2017,Euthanasia,Other,2,Brown
+A673538,NA,Mar,2014,Transfer,Dog,0.4166666666666667,Brown/White
+A721181,NA,Feb,2016,Transfer,Cat,0.5,Brown Tabby/White
+A666401,*Clint,Jan,2014,Adoption,Dog,8,Tricolor
+A848024,A848024,Dec,2021,Adoption,Cat,2,Orange Tabby/White
+A859937,*Cabin,Aug,2022,Adoption,Cat,0.16666666666666666,White/Black
+A719872,Budster,Mar,2016,Transfer,Cat,3,Blue/White
+A747522,NA,Apr,2017,Transfer,Cat,1,Cream Tabby
+A744324,*Calypso,Mar,2017,Adoption,Dog,1,Brown/White
+A800292,NA,Jul,2019,Transfer,Cat,0.3333333333333333,Brown Tabby
+A830122,*Hei Hei,Apr,2021,Adoption,Cat,1,Torbie
+A702569,Prof. Jax,May,2015,Transfer,Dog,0.16666666666666666,Tricolor
+A814480,NA,Mar,2020,Euthanasia,Other,2,Brown/Brown
+A670407,Buster,Feb,2014,Adoption,Dog,3,Brown Brindle/White
+A819081,NA,Jun,2020,Transfer,Dog,0.16666666666666666,Brown/Black
+A841111,Lucky,Sep,2021,Adoption,Cat,0.16666666666666666,Black
+A688826,Misty,Sep,2014,Transfer,Dog,10,Black/White
+A738665,*Honorina,Feb,2017,Adoption,Cat,0.16666666666666666,Torbie/White
+A852228,Maxi,Mar,2022,Adoption,Cat,0.25,Brown Tabby
+A673521,Tails,Mar,2014,Adoption,Dog,0.6666666666666666,Brown/White
+A836330,*Jazzy,Jun,2021,Transfer,Dog,2,Black/White
+A712267,*Titan,Oct,2015,Transfer,Cat,1,White/Black
+A832964,Rock,Apr,2021,Transfer,Dog,1,Black/White
+A694430,Chica,Jan,2015,Adoption,Dog,1,Brown
+A731204,NA,Jul,2016,Transfer,Cat,0.4166666666666667,Brown Tabby
+A854775,NA,Apr,2022,Transfer,Cat,0.00547945205479452,Blue/White
+A676409,Olive,Apr,2014,Adoption,Dog,0.9166666666666666,Black
+A692390,*Charlize,Dec,2014,Adoption,Dog,8,Black/Tan
+A796313,Brodie,Aug,2019,Transfer,Cat,0.25,Brown Tabby
+A716055,NA,Nov,2015,Transfer,Cat,3,Lilac Point
+A732072,Max,Aug,2016,Adoption,Dog,0.6666666666666666,Black/White
+A747129,NA,Apr,2017,Transfer,Dog,3,Gray
+A731527,NA,Jul,2016,Transfer,Cat,1,White
+A833590,NA,May,2021,Transfer,Dog,13,White/Brown
+A743291,Daisy,Feb,2017,Adoption,Cat,2,Brown Tabby/White
+A678096,*Dennis,Jul,2014,Adoption,Cat,0.25,Black
+A744210,Eevee,Feb,2017,Adoption,Other,4,White
+A803625,Pretzel,Sep,2019,Transfer,Cat,7,Brown Tabby
+A813099,NA,Feb,2020,Transfer,Cat,1,Lynx Point
+A863735,NA,Aug,2022,Transfer,Cat,1,Black/White
+A780643,Sophie,Sep,2018,Adoption,Dog,0.4166666666666667,Brown/White
+A689299,NA,Oct,2014,Adoption,Dog,6,Brown/White
+A688951,*Gustav,Dec,2014,Adoption,Dog,2,Fawn
+A744594,NA,Mar,2017,Euthanasia,Other,1,Brown
+A734599,Leo,Nov,2016,Adoption,Cat,0.25,Brown Tabby
+A689071,NA,Sep,2014,Euthanasia,Cat,0.6666666666666666,Calico
+A857960,Jerry,May,2022,Transfer,Dog,4,Black/White
+A797303,NA,Jun,2019,Transfer,Dog,2,Black/Tan
+A851527,*Lucas Brown,Apr,2022,Adoption,Dog,4,Red
+A818022,*Yoshi,Aug,2020,Adoption,Cat,2,Black/Black
+A697258,Champion,Feb,2015,Adoption,Dog,1,Brown Brindle/White
+A678707,NA,Jun,2014,Adoption,Cat,0.16666666666666666,Tortie
+A810107,Daisy,Dec,2019,Adoption,Dog,1,Tricolor
+A864132,NA,Aug,2022,Transfer,Dog,6,Tan/White
+A710650,*Adina,Oct,2015,Transfer,Cat,2,Blue/White
+A774233,Nelson,Aug,2019,Adoption,Dog,1,Tan/White
+A842427,*Ellie,Sep,2021,Adoption,Dog,2,White/Tan
+A743722,*Chompers,Feb,2017,Adoption,Dog,0.4166666666666667,White/Brown
+A705561,NA,Jun,2015,Euthanasia,Cat,0.16666666666666666,Seal Point
+A704595,Rory,Jun,2015,Transfer,Dog,1,Tan/White
+A738763,*Jarvis,Nov,2016,Transfer,Dog,10,Black/Tan
+A763741,Brinx,May,2019,Transfer,Dog,2,Gray/Black
+A761091,*Diego,Nov,2017,Transfer,Cat,8,Black
+A703923,Fluffy,Mar,2016,Adoption,Cat,1,Black/White
+A777869,Cocoa Bean,May,2019,Transfer,Dog,2,Black/White
+A731114,NA,Jul,2016,Transfer,Cat,2,Brown Tabby/White
+A770748,*Banjo,May,2018,Adoption,Dog,0.16666666666666666,Black/Brown
+A752254,*Pepper,Jul,2017,Adoption,Dog,2,Black/White
+A867451,NA,Oct,2022,Transfer,Dog,0.16666666666666666,Black
+A799828,Arya,Jul,2019,Adoption,Dog,0.16666666666666666,Black
+A732148,*Benny,Sep,2016,Adoption,Dog,5,Brown
+A759755,NA,Oct,2017,Adoption,Cat,0.16666666666666666,Brown Tabby
+A752253,NA,Jan,2018,Adoption,Cat,1,White
+A861149,A861149,Jul,2022,Adoption,Dog,0.16666666666666666,White/Tan
+A808350,Jinx,Nov,2019,Adoption,Cat,8,Blue Tabby
+A775886,Bo,Jul,2018,Adoption,Dog,2,Red/Brown
+A764512,Leo,Jan,2018,Adoption,Cat,4,Brown Tabby
+A753809,*Petunia,Sep,2017,Adoption,Other,1,Brown/White
+A729061,NA,Jun,2016,Transfer,Cat,3,Black/White
+A796323,Mary,Sep,2019,Adoption,Cat,1,Tortie
+A694297,*Dude,Feb,2015,Adoption,Dog,0.16666666666666666,Black
+A806683,314 Grams,Oct,2019,Transfer,Cat,3,Tortie
+A788449,NA,Feb,2019,Euthanasia,Other,1,Brown
+A838251,NA,Jul,2021,Transfer,Dog,2,Brown
+A698535,*Scrabbles,Mar,2015,Adoption,Dog,0.8333333333333334,Black/White
+A717554,Lucky,Feb,2017,Transfer,Dog,6,Tan/White
+A858759,*Sass,Jul,2022,Adoption,Cat,0.25,Brown Tabby
+A728279,Ziggy,Jun,2016,Adoption,Dog,1,Brown/White
+A797489,*O.T.,Jul,2019,Adoption,Cat,0.16666666666666666,Tortie
+A730331,Jake,Jul,2016,Adoption,Dog,4,Brown Brindle
+A741465,NA,Jan,2017,Adoption,Cat,1,Orange/White
+A690220,Ligra,Oct,2014,Adoption,Dog,1,Brown Brindle
+A717029,Smudge,Dec,2015,Adoption,Cat,2,White
+A743430,NA,Feb,2017,Adoption,Dog,2,Black/Tan
+A672177,Winston,Feb,2014,Adoption,Dog,0.9166666666666666,Black
+A754435,NA,Jul,2017,Transfer,Cat,1,Brown Tabby
+A709218,Munchkin,Aug,2015,Transfer,Dog,2,Tan
+A852094,*Juke,Sep,2022,Adoption,Dog,0.9166666666666666,White/Black
+A757288,NA,Sep,2017,Adoption,Dog,0.16666666666666666,Tan
+A858982,NA,Jun,2022,Transfer,Dog,1,White/Chocolate
+A798869,*Willie,Aug,2019,Adoption,Cat,0.16666666666666666,Blue/White
+A737935,Tehya,Nov,2016,Transfer,Dog,7,Sable
+A776149,NA,Jul,2018,Transfer,Cat,0.00821917808219178,White
+A804305,Lola,Sep,2019,Adoption,Dog,0.16666666666666666,Tan/Black
+A701265,Blue,May,2018,Adoption,Dog,4,Blue/White
+A802567,Ruben,Oct,2019,Adoption,Cat,5,Blue/White
+A789943,Jed,Oct,2020,Adoption,Cat,1,Orange Tabby
+A842604,Aphelios,Sep,2021,Adoption,Dog,1,White/Gray
+A755913,Bella,Aug,2017,Adoption,Dog,0.16666666666666666,Black/Tan
+A699031,Tabitha,Sep,2015,Adoption,Cat,10,Lynx Point
+A690625,NA,Oct,2014,Transfer,Cat,0.5833333333333334,Orange Tabby
+A684160,*Rita,Aug,2014,Adoption,Cat,0.16666666666666666,Blue Tabby
+A716062,Casey,Dec,2015,Adoption,Dog,4,Tan
+A830502,Bella,Aug,2021,Adoption,Dog,0.5833333333333334,Tricolor
+A759767,Kirby,Oct,2017,Adoption,Dog,1,Black/Brown
+A692490,*Elroy,Dec,2014,Transfer,Dog,0.8333333333333334,Black/White
+A858230,*Lillian,Jun,2022,Transfer,Cat,1,Calico Point
+A743606,NA,Feb,2017,Adoption,Dog,0.3333333333333333,Brown/White
+A710467,NA,Aug,2015,Transfer,Cat,2,Tortie
+A756715,*Paul,Sep,2017,Adoption,Cat,0.3333333333333333,Brown Tabby/White
+A774867,NA,Jun,2018,Adoption,Dog,0.16666666666666666,Brown Brindle/White
+A765672,Chino,Nov,2018,Adoption,Dog,1,White/Black
+A699141,*Crema,May,2015,Adoption,Cat,0.16666666666666666,Cream Tabby/White
+A783393,NA,Oct,2018,Transfer,Cat,1,Black
+A680969,*Zeus,Aug,2014,Adoption,Cat,0.16666666666666666,White/Orange Tabby
+A688432,NA,Sep,2014,Transfer,Cat,1,Cream Tabby
