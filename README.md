@@ -57,7 +57,7 @@ FDA limits PCBs in fish to 2 ppm or less for "safe human consumption". Is there 
   **Gold**: Is the entry a Gold Medal or not
   
   **Pirates.csv** - Sample of documented Pirate attacked from 2015 - 2020 along the coasts of Africa, Asia, and the Americas. Original dataset found at https://github.com/newzealandpaul/Maritime-Pirate-Attacks. Includes 329 observations and 7 variables.
-  **Year**, an integer between 2015 and 2020. **attack_type** the type of attack, categorical with three levels: *Attempted*, *Boarded*, *Hijacked*. **nearest_country** is the three digit country code of the nearest shoreline. **shore_distance** is numeric and documents the distance to shore, in kilometers. **attack_description** is the official documented report of the attack. **vessel_status** is categorical with two levels, *Anchored* and *Berthed*.
+  **Year**, an integer between 2015 and 2020. **attack_type** the type of attack, categorical with three levels: *Attempted*, *Boarded*, *Hijacked*. **nearest_country** is the three digit country code of the nearest shoreline. **shore_distance** is numeric and documents the distance to shore, in kilometers. **attack_description** is the official documented report of the attack. **vessel_status** is categorical with two levels, *Anchored* and *Berthed*. **Continent** is the closest continent with three levels, *Africa*, *Asia*, and *Americas*.
 
 **Pumpkin.csv** - Sample of pumpkins entered into the international GPC Pumpkin Weigh-Off of 2021. Original (complete) data found at http://www.bigpumpkins.com/WeighoffResultsGPC.aspx?c=P&y=2021. Variables include **Grower Name**, **Country**, **OTT** - the over-the-top measurement in inches for the size of the pumpkin, and **Weight**, the weight of the pumpkin in pounds.
 
