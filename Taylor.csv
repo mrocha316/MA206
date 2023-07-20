@@ -1,51 +1,51 @@
-name,album,artist,release_date,length,popularity,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,valence,tempo
-Our Song,Taylor Swift,Taylor Swift,10/24/2006,201106,54,0.668,0.111,0.672,0,0.329,-4.931,0.0303,0.539,89.011
-Love Story (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,4/9/2021,235766,74,0.627,0.13,0.792,3.97E-06,0.0845,-4.311,0.031,0.415,119.054
-...Ready For It?,reputation,Taylor Swift,11/10/2017,208186,74,0.613,0.0527,0.764,0,0.197,-6.509,0.136,0.417,160.015
-All Too Well,Red (Deluxe Edition),Taylor Swift,10/22/2012,329160,72,0.602,0.0382,0.609,2.00E-04,0.128,-7.803,0.0243,0.337,93.06
-Cold As You,Taylor Swift,Taylor Swift,10/24/2006,239013,50,0.418,0.217,0.482,0,0.123,-5.769,0.0266,0.261,175.558
-dorothea,evermore (deluxe version),Taylor Swift,1/7/2021,225880,64,0.605,0.696,0.488,0,0.129,-8.322,0.0264,0.354,119.966
-This Is Why We Can't Have Nice Things,reputation,Taylor Swift,11/10/2017,207133,68,0.567,0.0156,0.789,0,0.382,-5.986,0.115,0.438,163.96
-Treacherous - Original Demo Recording,Red (Deluxe Edition),Taylor Swift,10/22/2012,240266,53,0.828,0.175,0.64,6.14E-05,0.0991,-8.248,0.0355,0.519,109.993
-Begin Again,Red (Deluxe Edition),Taylor Swift,10/22/2012,239426,60,0.53,0.199,0.526,3.52E-06,0.14,-8.349,0.0263,0.323,79.025
-illicit affairs,folklore (deluxe version),Taylor Swift,8/18/2020,190893,62,0.529,0.862,0.304,0,0.108,-10.567,0.0356,0.44,119.58
-I Forgot That You Existed,Lover,Taylor Swift,8/23/2019,170640,72,0.664,0.298,0.316,2.03E-06,0.0812,-10.345,0.519,0.541,92.875
-The Story Of Us,Speak Now (Deluxe Package),Taylor Swift,1/1/2010,266480,59,0.546,0.00487,0.809,3.72E-04,0.0437,-3.621,0.041,0.649,139.91
-The Moment I Knew,Red (Deluxe Edition),Taylor Swift,10/22/2012,286613,58,0.619,0.187,0.506,1.47E-05,0.101,-7.327,0.0315,0.274,126.03
-Come Back...Be Here,Red (Deluxe Edition),Taylor Swift,10/22/2012,223920,60,0.483,0.00471,0.548,2.01E-06,0.0997,-6.291,0.0254,0.217,79.926
-Change (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,4/9/2021,279359,61,0.499,1.91E-04,0.815,0,0.181,-4.063,0.0341,0.344,95.999
-Don’t Blame Me,reputation,Taylor Swift,11/10/2017,236413,75,0.615,0.106,0.534,1.76E-05,0.0607,-6.719,0.0386,0.193,135.917
-I'm Only Me When I'm With You,Taylor Swift,Taylor Swift,10/24/2006,213053,50,0.563,0.00452,0.934,8.07E-04,0.103,-3.629,0.0646,0.518,143.964
-Come In With The Rain (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,4/9/2021,237338,61,0.476,0.0406,0.564,0,0.102,-5.677,0.0269,0.167,143.929
-Ours,Speak Now (Deluxe Package),Taylor Swift,1/1/2010,238173,55,0.61,0.505,0.556,0,0.0851,-7.369,0.0285,0.192,159.838
-the lakes - bonus track,folklore (deluxe version),Taylor Swift,8/18/2020,211813,65,0.313,0.842,0.258,1.30E-06,0.0948,-11.532,0.0383,0.268,179.947
-The Last Time,Red (Deluxe Edition),Taylor Swift,10/22/2012,299013,61,0.505,0.035,0.443,3.15E-06,0.0906,-7.039,0.0276,0.123,94.069
-cardigan,folklore (deluxe version),Taylor Swift,8/18/2020,239560,65,0.612,0.525,0.58,4.14E-04,0.26,-8.572,0.0419,0.534,130.045
-I Did Something Bad,reputation,Taylor Swift,11/10/2017,238253,74,0.696,0.0679,0.602,2.11E-05,0.0696,-6.156,0.159,0.305,82.989
-Mine,Speak Now (Deluxe Package),Taylor Swift,1/1/2010,230773,64,0.621,0.00327,0.78,4.55E-06,0.184,-2.934,0.0297,0.672,121.038
-hoax,folklore (deluxe version),Taylor Swift,8/18/2020,220040,60,0.676,0.964,0.178,7.90E-06,0.135,-15.01,0.0394,0.404,118.84
-State Of Grace,Red (Deluxe Edition),Taylor Swift,10/22/2012,295720,62,0.588,1.97E-04,0.825,0.00138,0.0884,-5.882,0.0328,0.397,129.968
-If This Was A Movie,Speak Now (Deluxe Package),Taylor Swift,1/1/2010,234546,52,0.515,0.154,0.724,4.05E-06,0.269,-3.498,0.0267,0.257,147.788
-We Were Happy (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),Taylor Swift,4/9/2021,244236,65,0.609,0.849,0.373,0,0.0779,-8.819,0.0263,0.13,106.007
-this is me trying,folklore (deluxe version),Taylor Swift,8/18/2020,195106,63,0.511,0.312,0.478,2.30E-05,0.147,-9.837,0.0322,0.408,135.882
-gold rush,evermore (deluxe version),Taylor Swift,1/7/2021,185320,66,0.512,0.83,0.462,0.166,0.121,-10.491,0.0408,0.353,112.05
-Tell Me Why (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,4/9/2021,200575,63,0.578,0.0222,0.909,0,0.333,-3.669,0.0628,0.541,100.023
-Jump Then Fall (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,4/9/2021,237580,62,0.572,0.0474,0.69,0,0.0897,-6.201,0.0358,0.624,160.111
-Today Was A Fairytale (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,4/9/2021,241822,62,0.482,0.0135,0.779,0,0.296,-5.025,0.0409,0.328,158.162
-Afterglow,Lover,Taylor Swift,8/23/2019,223293,74,0.756,0.13,0.449,0,0.114,-8.746,0.0344,0.399,111.011
-Untouchable (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,4/9/2021,312107,62,0.393,0.0181,0.531,0,0.169,-6.112,0.0329,0.224,200.391
-I Almost Do,Red (Deluxe Edition),Taylor Swift,10/22/2012,244560,61,0.567,0.0173,0.481,4.13E-05,0.182,-7.357,0.027,0.233,145.865
-22,Red (Deluxe Edition),Taylor Swift,10/22/2012,232120,64,0.661,0.00215,0.729,0.0013,0.0477,-6.561,0.0376,0.668,103.987
-my tears ricochet,folklore (deluxe version),Taylor Swift,8/18/2020,255893,64,0.456,0.814,0.265,0,0.0679,-10.663,0.0328,0.112,129.947
-long story short,evermore (deluxe version),Taylor Swift,1/7/2021,215920,64,0.546,0.66,0.73,0.179,0.0972,-7.704,0.0417,0.573,157.895
-Wildest Dreams,1989 (Deluxe),Taylor Swift,1/1/2014,220440,61,0.55,0.0692,0.688,0.00144,0.106,-7.416,0.0897,0.465,139.997
-Blank Space,1989 (Deluxe),Taylor Swift,1/1/2014,231826,82,0.76,0.103,0.703,0,0.0913,-5.412,0.054,0.57,95.997
-It’s Nice To Have A Friend,Lover,Taylor Swift,8/23/2019,150440,65,0.737,0.971,0.175,3.37E-04,0.171,-9.912,0.0401,0.545,70.008
-the 1,folklore (deluxe version),Taylor Swift,8/18/2020,210240,64,0.78,0.75,0.361,7.14E-06,0.108,-6.942,0.048,0.163,139.902
-Soon You’ll Get Better (feat. The Chicks),Lover,Taylor Swift,8/23/2019,201586,65,0.433,0.907,0.182,0,0.123,-12.566,0.0641,0.421,207.476
-Look What You Made Me Do,reputation,Taylor Swift,11/10/2017,211853,77,0.766,0.204,0.709,1.41E-05,0.126,-6.471,0.123,0.506,128.07
-The Other Side Of The Door (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,4/9/2021,238443,64,0.432,0.0279,0.873,0,0.167,-4.367,0.0577,0.629,163.936
-‘tis the damn season,evermore (deluxe version),Taylor Swift,1/7/2021,229840,66,0.575,0.735,0.434,6.59E-05,0.105,-8.193,0.0312,0.348,145.916
-Gorgeous,reputation,Taylor Swift,11/10/2017,209680,72,0.8,0.0713,0.535,9.48E-06,0.213,-6.684,0.135,0.451,92.027
-Dancing With Our Hands Tied,reputation,Taylor Swift,11/10/2017,211506,68,0.624,0.0604,0.691,1.10E-05,0.138,-6.686,0.196,0.284,160.024
-Dress,reputation,Taylor Swift,11/10/2017,230373,71,0.719,0.0329,0.469,0,0.169,-8.792,0.0533,0.0851,120.085
+name,album,release_date,length,popularity,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,valence,tempo
+Our Song,Taylor Swift,10/24/2006,201106,54,0.668,0.111,0.672,0,0.329,-4.931,0.0303,0.539,89.011
+Love Story (Taylor’s Version),Fearless (Taylor's Version),4/9/2021,235766,74,0.627,0.13,0.792,3.97E-06,0.0845,-4.311,0.031,0.415,119.054
+...Ready For It?,reputation,11/10/2017,208186,74,0.613,0.0527,0.764,0,0.197,-6.509,0.136,0.417,160.015
+All Too Well,Red (Deluxe Edition),10/22/2012,329160,72,0.602,0.0382,0.609,2.00E-04,0.128,-7.803,0.0243,0.337,93.06
+Cold As You,Taylor Swift,10/24/2006,239013,50,0.418,0.217,0.482,0,0.123,-5.769,0.0266,0.261,175.558
+dorothea,evermore (deluxe version),1/7/2021,225880,64,0.605,0.696,0.488,0,0.129,-8.322,0.0264,0.354,119.966
+This Is Why We Can't Have Nice Things,reputation,11/10/2017,207133,68,0.567,0.0156,0.789,0,0.382,-5.986,0.115,0.438,163.96
+Treacherous - Original Demo Recording,Red (Deluxe Edition),10/22/2012,240266,53,0.828,0.175,0.64,6.14E-05,0.0991,-8.248,0.0355,0.519,109.993
+Begin Again,Red (Deluxe Edition),10/22/2012,239426,60,0.53,0.199,0.526,3.52E-06,0.14,-8.349,0.0263,0.323,79.025
+illicit affairs,folklore (deluxe version),8/18/2020,190893,62,0.529,0.862,0.304,0,0.108,-10.567,0.0356,0.44,119.58
+I Forgot That You Existed,Lover,8/23/2019,170640,72,0.664,0.298,0.316,2.03E-06,0.0812,-10.345,0.519,0.541,92.875
+The Story Of Us,Speak Now (Deluxe Package),1/1/2010,266480,59,0.546,0.00487,0.809,3.72E-04,0.0437,-3.621,0.041,0.649,139.91
+The Moment I Knew,Red (Deluxe Edition),10/22/2012,286613,58,0.619,0.187,0.506,1.47E-05,0.101,-7.327,0.0315,0.274,126.03
+Come Back...Be Here,Red (Deluxe Edition),10/22/2012,223920,60,0.483,0.00471,0.548,2.01E-06,0.0997,-6.291,0.0254,0.217,79.926
+Change (Taylor’s Version),Fearless (Taylor's Version),4/9/2021,279359,61,0.499,1.91E-04,0.815,0,0.181,-4.063,0.0341,0.344,95.999
+Don’t Blame Me,reputation,11/10/2017,236413,75,0.615,0.106,0.534,1.76E-05,0.0607,-6.719,0.0386,0.193,135.917
+I'm Only Me When I'm With You,Taylor Swift,10/24/2006,213053,50,0.563,0.00452,0.934,8.07E-04,0.103,-3.629,0.0646,0.518,143.964
+Come In With The Rain (Taylor’s Version),Fearless (Taylor's Version),4/9/2021,237338,61,0.476,0.0406,0.564,0,0.102,-5.677,0.0269,0.167,143.929
+Ours,Speak Now (Deluxe Package),1/1/2010,238173,55,0.61,0.505,0.556,0,0.0851,-7.369,0.0285,0.192,159.838
+the lakes - bonus track,folklore (deluxe version),8/18/2020,211813,65,0.313,0.842,0.258,1.30E-06,0.0948,-11.532,0.0383,0.268,179.947
+The Last Time,Red (Deluxe Edition),10/22/2012,299013,61,0.505,0.035,0.443,3.15E-06,0.0906,-7.039,0.0276,0.123,94.069
+cardigan,folklore (deluxe version),8/18/2020,239560,65,0.612,0.525,0.58,4.14E-04,0.26,-8.572,0.0419,0.534,130.045
+I Did Something Bad,reputation,11/10/2017,238253,74,0.696,0.0679,0.602,2.11E-05,0.0696,-6.156,0.159,0.305,82.989
+Mine,Speak Now (Deluxe Package),1/1/2010,230773,64,0.621,0.00327,0.78,4.55E-06,0.184,-2.934,0.0297,0.672,121.038
+hoax,folklore (deluxe version),8/18/2020,220040,60,0.676,0.964,0.178,7.90E-06,0.135,-15.01,0.0394,0.404,118.84
+State Of Grace,Red (Deluxe Edition),10/22/2012,295720,62,0.588,1.97E-04,0.825,0.00138,0.0884,-5.882,0.0328,0.397,129.968
+If This Was A Movie,Speak Now (Deluxe Package),1/1/2010,234546,52,0.515,0.154,0.724,4.05E-06,0.269,-3.498,0.0267,0.257,147.788
+We Were Happy (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),4/9/2021,244236,65,0.609,0.849,0.373,0,0.0779,-8.819,0.0263,0.13,106.007
+this is me trying,folklore (deluxe version),8/18/2020,195106,63,0.511,0.312,0.478,2.30E-05,0.147,-9.837,0.0322,0.408,135.882
+gold rush,evermore (deluxe version),1/7/2021,185320,66,0.512,0.83,0.462,0.166,0.121,-10.491,0.0408,0.353,112.05
+Tell Me Why (Taylor’s Version),Fearless (Taylor's Version),4/9/2021,200575,63,0.578,0.0222,0.909,0,0.333,-3.669,0.0628,0.541,100.023
+Jump Then Fall (Taylor’s Version),Fearless (Taylor's Version),4/9/2021,237580,62,0.572,0.0474,0.69,0,0.0897,-6.201,0.0358,0.624,160.111
+Today Was A Fairytale (Taylor’s Version),Fearless (Taylor's Version),4/9/2021,241822,62,0.482,0.0135,0.779,0,0.296,-5.025,0.0409,0.328,158.162
+Afterglow,Lover,8/23/2019,223293,74,0.756,0.13,0.449,0,0.114,-8.746,0.0344,0.399,111.011
+Untouchable (Taylor’s Version),Fearless (Taylor's Version),4/9/2021,312107,62,0.393,0.0181,0.531,0,0.169,-6.112,0.0329,0.224,200.391
+I Almost Do,Red (Deluxe Edition),10/22/2012,244560,61,0.567,0.0173,0.481,4.13E-05,0.182,-7.357,0.027,0.233,145.865
+22,Red (Deluxe Edition),10/22/2012,232120,64,0.661,0.00215,0.729,0.0013,0.0477,-6.561,0.0376,0.668,103.987
+my tears ricochet,folklore (deluxe version),8/18/2020,255893,64,0.456,0.814,0.265,0,0.0679,-10.663,0.0328,0.112,129.947
+long story short,evermore (deluxe version),1/7/2021,215920,64,0.546,0.66,0.73,0.179,0.0972,-7.704,0.0417,0.573,157.895
+Wildest Dreams,1989 (Deluxe),1/1/2014,220440,61,0.55,0.0692,0.688,0.00144,0.106,-7.416,0.0897,0.465,139.997
+Blank Space,1989 (Deluxe),1/1/2014,231826,82,0.76,0.103,0.703,0,0.0913,-5.412,0.054,0.57,95.997
+It’s Nice To Have A Friend,Lover,8/23/2019,150440,65,0.737,0.971,0.175,3.37E-04,0.171,-9.912,0.0401,0.545,70.008
+the 1,folklore (deluxe version),8/18/2020,210240,64,0.78,0.75,0.361,7.14E-06,0.108,-6.942,0.048,0.163,139.902
+Soon You’ll Get Better (feat. The Chicks),Lover,8/23/2019,201586,65,0.433,0.907,0.182,0,0.123,-12.566,0.0641,0.421,207.476
+Look What You Made Me Do,reputation,11/10/2017,211853,77,0.766,0.204,0.709,1.41E-05,0.126,-6.471,0.123,0.506,128.07
+The Other Side Of The Door (Taylor’s Version),Fearless (Taylor's Version),4/9/2021,238443,64,0.432,0.0279,0.873,0,0.167,-4.367,0.0577,0.629,163.936
+‘tis the damn season,evermore (deluxe version),1/7/2021,229840,66,0.575,0.735,0.434,6.59E-05,0.105,-8.193,0.0312,0.348,145.916
+Gorgeous,reputation,11/10/2017,209680,72,0.8,0.0713,0.535,9.48E-06,0.213,-6.684,0.135,0.451,92.027
+Dancing With Our Hands Tied,reputation,11/10/2017,211506,68,0.624,0.0604,0.691,1.10E-05,0.138,-6.686,0.196,0.284,160.024
+Dress,reputation,11/10/2017,230373,71,0.719,0.0329,0.469,0,0.169,-8.792,0.0533,0.0851,120.085
