@@ -23,6 +23,7 @@ This is a repository of multiple datasets used for MA206. Data pulled and adjust
 
 **DopeyResults.csv** - Dopey Challenge results from January 2022. Original dataset compiled from Disney Marathon facebook page. Dopey Challenge includes 4 races in 4 days, a 5K, then 10K, then half marathon, then marathon. The first 4 variables are the finish time for each individual races. Last 4 variables are the converted overall miles per hour (average) for each individual race.
 
+**FEV_EE.csv** - A sample of a 1970s survey of adolescent youth from Providence, RI including **Age** (in years), **FEV** (Forced Experitory Volume), **Height** (inches), **Gender** (Male/Female), and **Smoker** (yes/no).
 
 **Firefighters.csv** - Data collected from recent fires, four variables: **Damage**: The damage (in dollars) caused by the fire; **Firefighters**: number of firefighters that responded to the fire; **SqFt**: Total square footage of the buildings burned by the fire; **MethLab**: Whether a meth lab was involved in the fire (Y/N)
 
