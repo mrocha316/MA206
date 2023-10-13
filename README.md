@@ -49,6 +49,8 @@ FDA limits PCBs in fish to 2 ppm or less for "safe human consumption". Is there 
 **Kissing.csv** - Pseudo-recreation of Kissing Right dataset (Tintle textbook Exploration Exercise 3.1), variable is if the couple turned their heads right or left.
 
 
+**Legos.csv** - Listing of official Lego sets. Variables include **ages**, **price**, **reviews** (number of reviews), **pieces** (number of pieces), **id**, **difficulty**, **theme**, **Licensed** (Disney/Marvel/Star Wars or not).
+
 **Olympics.csv** - Medal Results for Olympics Games. Clarification for some variables are:
   **Sex**: M/F 
   **Age**: Age, in years
